@@ -1,8 +1,8 @@
-# 🗄️ storeME: Persistent Key-Value Database
+# storeME: Persistent Key-Value Database
 
 > A lightweight, persistent key-value database engineered in C, focusing on memory safety, efficient file I/O operations, and reliable state recovery.
 
-## 🏗️ System Architecture & Data Flow
+## System Architecture & Data Flow
 
 ```text
 [ Client Request ] 
