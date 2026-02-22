@@ -18,3 +18,12 @@
        │
        ▼
 [ .TXT Storage   ] ──► Persistent state (Restored on reboot)
+
+
+Core Engineering
+	•	Database Design: Custom indexing for rapid retrieval and efficient memory utilization.
+	•	Data Persistence: Robust read/write operations that guarantee state recovery upon system initialization.
+	•	System Reliability: Focuses on foundational memory management and strict file handling in C.
+<!-- end list -->
+
+
